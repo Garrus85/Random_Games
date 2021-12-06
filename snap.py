@@ -1,4 +1,5 @@
-# SNAP card game
+# Game 2: SNAP card game
+""" Created the basic SNAP game utilising objects"""
 
 import random
 import time

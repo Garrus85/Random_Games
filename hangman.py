@@ -1,4 +1,5 @@
-# HANGMAN GAME
+# GAME 1: HANGMAN
+""" My first attempt at coding a game """
 
 import random
 
